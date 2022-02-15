@@ -1,0 +1,13 @@
+"name": req.body.name,
+"description": req.body.description,
+"linkGitHub": req.body.linkGitHub,
+"commitGitHub": req.body.commitGitHub,
+"participants": req.body.participants,
+"grade":
+
+{
+    "name": "first",
+    "description": "lsdnfklsdnmvklsdfnvknmvkdfnbkndfblndlknbvsdkflnblfdfklbndfkl",
+    "linkGitHub": "Ссылка на гидхаб",
+    "grade": "Средний"
+}
